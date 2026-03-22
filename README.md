@@ -36,6 +36,7 @@ See our [documentation](https://nvidia-nemo.github.io/Skills/releases/openreason
 * [07/18/2025]: We released [OpenReasoning](https://nvidia-nemo.github.io/Skills/releases/openreasoning/) models! SOTA scores on math, coding and science benchmarks.
 
 ![Evaluation Results with pass@1](docs/releases/openreasoning/pass-1.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjozrftamson%2FSkills.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjozrftamson%2FSkills?ref=badge_shield)
 
 ![Evaluation Results with GenSelect](docs/releases/openreasoning/genselect.png)
 
@@ -72,3 +73,7 @@ We welcome contributions to Nemo-Skills! Please see our [Contributing Guidelines
 
 
 Disclaimer: This project is strictly for research purposes, and not an official product from NVIDIA.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjozrftamson%2FSkills.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjozrftamson%2FSkills?ref=badge_large)
